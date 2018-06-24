@@ -1,0 +1,12 @@
+C:\Users\Michal\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\client_secret.json
+C:\Users\Michal\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\WorkingWithDataSheet.deps.json
+C:\Users\Michal\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\WorkingWithDataSheet.runtimeconfig.json
+C:\Users\Michal\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\WorkingWithDataSheet.runtimeconfig.dev.json
+C:\Users\Michal\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\WorkingWithDataSheet.dll
+C:\Users\Michal\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\WorkingWithDataSheet.pdb
+C:\Users\Michal\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\WorkingWithDataSheet.csproj.CoreCompileInputs.cache
+C:\Users\Michal\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\WorkingWithDataSheet.AssemblyInfoInputs.cache
+C:\Users\Michal\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\WorkingWithDataSheet.AssemblyInfo.cs
+C:\Users\Michal\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\WorkingWithDataSheet.dll
+C:\Users\Michal\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\WorkingWithDataSheet.pdb
+C:\Users\Michal\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\WorkingWithDataSheet.csprojAssemblyReference.cache
